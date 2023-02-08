@@ -8,3 +8,5 @@ They are free to use!
 
 [Astro Ecommerce](https://github.com/creativetimofficial/astro-ecommerce)
 
+[Tailwind Templates](https://github.com/tailwindtoolbox)
+
