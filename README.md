@@ -14,3 +14,8 @@ https://tailwindcomponents.com/components?page=11
 
 https://github.com/tailwindcomponents/e-commerce
 
+https://tailwindtemplates.co/templates/plain
+
+https://tailgrids.com/templates
+
+https://www.tailwindawesome.com/
