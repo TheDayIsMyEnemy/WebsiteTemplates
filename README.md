@@ -10,3 +10,7 @@ They are free to use!
 
 [Tailwind Templates](https://github.com/tailwindtoolbox)
 
+https://tailwindcomponents.com/components?page=11
+
+https://github.com/tailwindcomponents/e-commerce
+
