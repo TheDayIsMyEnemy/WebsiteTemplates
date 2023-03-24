@@ -19,3 +19,7 @@ https://tailwindtemplates.co/templates/plain
 https://tailgrids.com/templates
 
 https://www.tailwindawesome.com/
+
+https://aribudin.github.io/tailmater/
+
+https://wickedblocks.dev/#elements
